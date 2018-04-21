@@ -1,0 +1,28 @@
+{
+  "name": "airport-picker-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/restlessCalm/airport-picker-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/restlessCalm/airport-picker-backend/issues"
+  },
+  "homepage": "https://github.com/restlessCalm/airport-picker-backend#readme",
+  "dependencies": {
+    "csv-parse": "^2.2.0",
+    "csv-parser": "^1.12.1",
+    "express": "^4.16.3",
+    "mongoose": "^5.0.15",
+    "node-fetch": "^2.1.2"
+  }
+}
